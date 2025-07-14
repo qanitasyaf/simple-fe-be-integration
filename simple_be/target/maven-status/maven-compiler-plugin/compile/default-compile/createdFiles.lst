@@ -1,0 +1,8 @@
+com\simple_be\demo\config\SecurityConfig.class
+com\simple_be\demo\DemoApplication.class
+com\simple_be\demo\repository\UserRepository.class
+com\simple_be\demo\MessageResponse.class
+com\simple_be\demo\config\WebConfig.class
+com\simple_be\demo\AuthController.class
+com\simple_be\demo\LoginRequest.class
+com\simple_be\demo\model\User.class
